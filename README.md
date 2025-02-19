@@ -1,4 +1,4 @@
-# express-todo-
+# express-todo-api
 A simple todo application built with Node.js, Express.js, and MySQL
 
 ### Technologies used:
